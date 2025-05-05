@@ -32,7 +32,7 @@ You’ve entered a realm where imagination meets AI — where magical visuals un
 🚀 Ready to create your first masterpiece? Tap a button below and start your journey!
   `;
 
-  const pngUrl = 'https://ghiblibot.vercel.app/ghiblipic.png';  // public 폴더에 있는 이미지 파일 경로
+  const pngUrl = 'https://ghiblibot-sepia.vercel.app/ghiblipic.png';  // public 폴더에 있는 이미지 파일 경로
 
   // ✅ GIF + 메시지 + 버튼을 한 번에 보냄
   await ctx.replyWithPhoto(pngUrl, {
