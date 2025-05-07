@@ -12,7 +12,7 @@ bot.command("start", async (ctx) => {
   const keyboard = {
     inline_keyboard: [
       [{ text: "🔘 Create a Scene Now 🎨", web_app: { url: "https://ghibligame.vercel.app/" } }],  // 게임 링크 수정
-      [{ text: "🔘 Follow on X 🐦", url: "https://x.com/ghibliai_bnb" }],
+      [{ text: "🔘 Follow on X 🐦", url: "https://x.com/Ghibli_AI_" }],
       [{ text: "🔘 Join Telegram Chat 💬", url: "https://t.me/ghibliai_bnb" }],
       [{ text: "🔘 Visit Website 🌐 ", url: "https://www.aighibli.io/"}],
     ],
